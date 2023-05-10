@@ -1,0 +1,10 @@
+.scollApp {
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  height: 100vh;
+  background-color: beige;
+}
+.container {
+  overflow-y: auto;
+}
