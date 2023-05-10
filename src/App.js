@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Infinite from "./infinite/Infinite";
+import Infinite from "./infinite";
 
 import Box from "./Box";
 import "./App.css";
